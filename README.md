@@ -1,4 +1,4 @@
-# Zykrr Agentic CX Engine
+# Agentic CX Engine
 
 An autonomous AI-powered Customer Experience engine that reads incoming customer emails, understands intent and emotion, and takes real actions — all at machine speed.
 
